@@ -10,7 +10,7 @@ Willkommen beim Hundehotel
    :maxdepth: 2
    :caption: Inhalt:
 
-   allgemein
+   Mein allgemeiner Text <allgemein>
    modules
    hundehotel
 
